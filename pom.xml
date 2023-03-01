@@ -7,7 +7,7 @@
   <artifactId>Mahesh</artifactId>
   <packaging>pom</packaging>
   <version>2.0-SNAPSHOT</version>
-  <name>Maven Project</name>
+  <name>Mahesh Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
